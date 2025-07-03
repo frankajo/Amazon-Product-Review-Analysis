@@ -1,9 +1,14 @@
 # Amazon-Product-Review
 This project explores and analyzes Amazon product reviews to uncover insights about customer behavior, product performance, and pricing strategies. Using Excel, and data visualization techniques, it answers key business questions that can inform better product decisions and customer engagement strategies.
 
-You are working as a Junior Data Analyst at RetailTech Insights, a company that provides e-commerce analytics solutions to sellers on platforms like Amazon. Your team has been 
-tasked with analysing product and customer review data to generate insights that can guide product improvement, marketing strategies, and customer engagement
+### Excel Project: Amazon Product Review Analysis
+#### Project Overview
+This project explores and analyzes Amazon product reviews to uncover insights about customer behavior, product performance, product improvement, and customer engagement
 ---
+#### Data Sources
+The primary source of Data used in this project is a dataset contains information scraped from Amazon product pages, including: 
+Though this data was shared to our LMS for this particular project.
+
 ## 🔍 Project Objectives
 
 - Analyze the distribution of product prices
