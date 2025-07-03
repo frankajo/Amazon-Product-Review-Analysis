@@ -1,7 +1,10 @@
-# Amazon-Product-Review
-This is the first test of my ability as a Data Analyst. I want to say a big thank you to the **Incubator Hub** and the entire **DSA Team** for this wonderful opportunity,
-not forgetting my three high standard instructors (Mr Temidayo DeeTee, Mr Femi and Mr Musin) for their wonderful impact in my journe.
-Special thanks to my father in Lord **Daddy G.O** for giving me an opportinity of a life time. May God continue to uphold you daddy.
+# DSA Project Documentation
+My name is **Ngbede Frank Ajo**. This is the first test of my ability as a Data Analyst. I want to say a big thank you to the 
+**Incubator Hub** and the entire **DSA Team** for this life changing experience, and my wonderful, impactful and friendly Facilitators
+*(Mr. Temidayo DeeTee, Mr. Femi Ayodele and Mr. Muhsin Hameed)* for their wonderful impact in my journey.
+
+My special thank goes to my Father in The Lord, **Daddy G.O** who made this program possible for me to enjoy free of charge. 
+May Almighty continue to bless protect you. We love you…
 
 ---
 
@@ -23,11 +26,11 @@ This limits informed decision-making for both buyers and sellers.
 
 ---
 
-## 🎯 Project Objectives
-- Analyze the distribution of product prices  
+## 🎯 Project Objectives 
 - Identify top-rated and most-reviewed products  
 - Understand the relationship between ratings and discount levels  
-- Track customer feedback trends across categories  
+- Track customer feedback trends across categories
+- Analyze the distribution of product prices 
 - Build a clean, interactive Excel dashboard  
 
 ---
