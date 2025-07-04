@@ -118,7 +118,7 @@ To answer specific business questions, several calculated columns were created:
 - ⭐ **Average rating drops as discount increases**  
   Products with <10% discount received the highest average rating (4.21), while those with >50% had the lowest (4.05).
 - No direct correlation between **discounts** and **customer ratings**
-- 📦 **Electronics dominate in review volume**, but personal care products often yield higher profit margins.
+- **Electronics dominate in volumn of potential revenue and review volume**.
 - - Over **60%** of products are priced above ₹1000
 
 ![dashbaord2](https://github.com/user-attachments/assets/52f858ed-d193-49a3-b68e-24ba29bca00b)
