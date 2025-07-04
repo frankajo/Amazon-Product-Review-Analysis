@@ -41,7 +41,8 @@ The dataset was scraped from Amazon product pages and contains:
 - **Customer Engagement**: user reviews, titles, and content  
 
 Each row represents a unique product, with reviewer data stored as comma-separated values.
-- <a href"https://github.com/frankajo/Amazon-Product-Review-Analysis/blob/main/Amazon%20case%20study_myProject.xlsx" >
+
+[Download Project File](https://github.com/frankajo/Amazon-Product-Review-Analysis/blob/main/Amazon%20case%20study_myProject.xlsx")
 
 ---
 
