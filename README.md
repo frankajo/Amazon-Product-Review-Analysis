@@ -121,8 +121,10 @@ To answer specific business questions, several calculated columns were created:
 - 📦 **Electronics dominate in review volume**, but personal care products often yield higher profit margins.
 - - Over **60%** of products are priced above ₹1000
 
-![dashboard1](https://github.com/user-attachments/assets/66b2731a-e278-4254-931c-1778f9569ac7)
-![dashbaord2](https://github.com/user-attachments/assets/32100073-7e07-4160-94fa-7e4d378cb795)
+![dashbaord2](https://github.com/user-attachments/assets/52f858ed-d193-49a3-b68e-24ba29bca00b)
+![dashboard1](https://github.com/user-attachments/assets/a1dc5512-bd63-4185-9582-7e47e0651a1b)
+
+
 
 
 ---
