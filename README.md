@@ -42,8 +42,6 @@ The dataset was scraped from Amazon product pages and contains:
 
 Each row represents a unique product, with reviewer data stored as comma-separated values.
 
-[Download Project File](https://github.com/frankajo/Amazon-Product-Review-Analysis/blob/main/Amazon%20case%20study_myProject.xlsx")
-
 ---
 
 ## 🛠 Tools Used
@@ -106,6 +104,8 @@ To answer specific business questions, several calculated columns were created:
 
 6. **How does the rating relate to the level of discount?**  
    → Found that average ratings slightly decrease as discount increases.
+
+   [Download Project File](https://github.com/frankajo/Amazon-Product-Review-Analysis/blob/main/Amazon%20case%20study_myProject.xlsx")
 
 ---
 
