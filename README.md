@@ -1,9 +1,9 @@
 # DSA Project Documentation
-My name is **Ngbede Frank Ajo**. This is the first test of my ability as a Data Analyst. I want to say a big thank you to the 
-**Incubator Hub** and the entire **DSA Team** for this life changing experience, and my wonderful, impactful and friendly Facilitators
-*(Mr. Temidayo DeeTee, Mr. Femi Ayodele and Mr. Muhsin Hameed)* for their wonderful impact in my journey.
+My name is `Ngbede Frank Ajo`. This is the first test of my ability as a Data Analyst. I want to say a big thank you to `The Incubator Hub` and 
+the entire `DSA Team` for this life changing experience, and my wonderful, impactful and friendly Facilitators
+`(Mr. Temidayo DeeTee, Mr. Femi Ayodele and Mr. Muhsin Hameed)` for their wonderful impact in my journey.
 
-My special thank goes to my Father in The Lord, **Daddy G.O** who made this program possible for me to enjoy free of charge. 
+My special thank goes to my Father in The Lord, `Daddy G.O` who made this program possible for me to enjoy free of charge. 
 May Almighty continue to bless protect you. We love you…
 
 ---
@@ -59,7 +59,7 @@ Here’s the step-by-step cleaning process:
 - **Handled Missing Values**: Filled two missing `Rating_Count` entries using the column average.
 - **Formatted Headers**: Capitalized headers using `=PROPER()` and Paste Special.
 - **Split Category Column**: Used `Text to Columns` with delimiter `|` to split subcategories.
-- **Dropped Irrelevant Columns**: Removed unnecessary columns like `img_link`, `user_name`, `review_title`, etc.
+- **Dropped Irrelevant Columns**: Removed unnecessary columns like `img_link`, `user_name`, `review_title`, `about_product`, etc.
 
 ---
 
@@ -67,7 +67,6 @@ Here’s the step-by-step cleaning process:
 
 To answer specific business questions, several calculated columns were created:
 
-### 📦 Product-Level Metrics
 - **`Discount_Above50%`**:  
   `=IF(F2>=0.5, 1, 0)` → Flags products with ≥50% discount.
 
@@ -81,7 +80,7 @@ To answer specific business questions, several calculated columns were created:
 - **`Product<1000_Review`**:  
   `=IF(H2<1000, 1, 0)` → Filters products with fewer than 1,000 reviews.
 
-- **`Combined_Rating×R-Count`**:  
+- **`Rating_Score`**:  
   `=G2 * H2` → Used to identify top products based on both rating and review volume.
 
 ---
