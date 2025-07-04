@@ -107,6 +107,8 @@ To answer specific business questions, several calculated columns were created:
 
    [Download Project File](https://github.com/frankajo/Amazon-Product-Review-Analysis/blob/main/Amazon%20case%20study_myProject.xlsx")
 
+   [Dashboard](https://github.com/frankajo/Amazon-Product-Review-Analysis/blob/main/dashboard1.png)
+
 ---
 
 ## 🔍 Key Insights
