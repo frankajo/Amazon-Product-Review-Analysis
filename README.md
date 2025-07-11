@@ -105,10 +105,7 @@ To answer specific business questions, several calculated columns were created:
 6. **How does the rating relate to the level of discount?**  
    → Found that average ratings slightly decrease as discount increases.
 
-   [Download Project File](https://github.com/frankajo/Amazon-Product-Review-Analysis/blob/main/Amazon%20case%20study_myProject.xlsx")
-
-     [Dashboard](https://github.com/frankajo/Amazon-Product-Review-Analysis/blob/main/dashbaord2.png)
-   [Dashboard](https://github.com/frankajo/Amazon-Product-Review-Analysis/blob/main/dashboard1.png)
+   [Download Project File]()
   
 
 ---
