@@ -121,10 +121,8 @@ To answer specific business questions, several calculated columns were created:
 - **Electronics dominate in volumn of potential revenue and review volume**.
 - - Over **60%** of products are priced above ₹1000
 
-![dashbaord2](https://github.com/user-attachments/assets/52f858ed-d193-49a3-b68e-24ba29bca00b)
-![dashboard1](https://github.com/user-attachments/assets/a1dc5512-bd63-4185-9582-7e47e0651a1b)
-
-
+<img width="1305" height="381" alt="dashboard01" src="https://github.com/user-attachments/assets/3c97076d-fd8e-4ed9-9222-5f03dcb4812c" />
+<img width="1301" height="524" alt="dashboard02" src="https://github.com/user-attachments/assets/10ebdc9b-c967-4730-8b54-64907bf5bd84" />
 
 
 ---
