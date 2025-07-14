@@ -4,7 +4,7 @@ the entire `DSA Team` for this life changing experience, and my wonderful, impac
 `(Mr. Temidayo DeeTee, Mr. Femi Ayodele and Mr. Muhsin Hameed)` for their wonderful impact in my journey.
 
 My special thank goes to my Father in The Lord, `Daddy G.O` who made this program possible for me to enjoy free of charge. 
-May Almighty continue to bless protect you. We love you…
+May Almighty God continue to bless and protect you. We love you…
 
 ---
 
