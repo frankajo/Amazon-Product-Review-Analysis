@@ -106,7 +106,9 @@ To answer specific business questions, several calculated columns were created:
    → Found that average ratings slightly decrease as discount increases.
 
    [download file here](https://github.com/frankajo/Amazon-Product-Review-Analysis/blob/main/Amazon%20case%20study.xlsx)
+   
    [download dashboard](https://github.com/frankajo/Amazon-Product-Review-Analysis/blob/main/dashboard01.png)
+   [download dashboard](https://github.com/frankajo/Amazon-Product-Review-Analysis/blob/main/dashboard02.png)
   
 
 ---
