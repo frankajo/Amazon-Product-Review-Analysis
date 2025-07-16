@@ -107,10 +107,8 @@ To answer specific business questions, several calculated columns were created:
 
    [download file here](https://github.com/frankajo/Amazon-Product-Review-Analysis/blob/main/Amazon%20case%20study.xlsx)
    
-   [download dashboard](https://github.com/frankajo/Amazon-Product-Review-Analysis/blob/main/dashboard01.png)
-   [download dashboard](https://github.com/frankajo/Amazon-Product-Review-Analysis/blob/main/dashboard02.png)
+   [download dashboard](<img width="769" height="536" alt="Dashboard" src="https://github.com/user-attachments/assets/a5fe3bfd-b7a8-4628-be83-cd7a3a37e2a9" />)
   
-
 ---
 
 ## 🔍 Key Insights
